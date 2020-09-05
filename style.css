@@ -1,0 +1,47 @@
+body{
+    margin: 0;
+    font-family: 'Russo One', sans-serif; 
+    display: flex-box;
+    background-image: url(../img/fondo.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+}
+
+header{
+    
+    text-align: center;
+    align-items: center; 
+    color: white;
+    
+    padding: 50px;
+
+         
+
+}
+
+.button{
+    background-color: yellow;
+    border-radius: 50px;
+    height: 40px;
+    width: 90px;
+    font-family: 'Russo One', sans-serif;
+    
+
+}
+
+.pikachu{
+    display:none;
+    width: 10%;
+  
+    
+   
+    
+}
+
+.respuesta{
+    display: inline;
+}
+.titulo2{
+    color:yellow;
+}
