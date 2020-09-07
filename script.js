@@ -11,7 +11,7 @@ $(document).ready(function(){
     
     
 
-    $('#respuesta').empty();
+    $('#resultado').empty();
     let formulario = $("#info");
     
     console.log(nombre);
